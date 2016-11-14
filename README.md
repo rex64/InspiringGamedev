@@ -7,3 +7,5 @@ to inspire and to be inspired
   - [HN Comments](https://news.ycombinator.com/item?id=12934089)
   - [r/gamedev Comments](https://www.reddit.com/r/gamedev/comments/5cmofq/wind_waker_graphics_analysis/)
 * [Game Center CX talks with programmer who's responsible for Mew](https://www.youtube.com/watch?v=6k-QXkvds_s&feature=youtu.be&t=22m15s)
+* [World of Warcraft level design panel from BlizzCon 2016](https://www.youtube.com/watch?v=eYDd3T_s1zo)
+  - [r/gamedev](https://www.reddit.com/r/gamedev/comments/5c6czt/world_of_warcraft_level_design_panel_from/)
