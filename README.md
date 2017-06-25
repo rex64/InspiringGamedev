@@ -11,3 +11,4 @@ to inspire and to be inspired
   - [r/gamedev Comments](https://www.reddit.com/r/gamedev/comments/5c6czt/world_of_warcraft_level_design_panel_from/)
 * [In-depth video on Mario 64's collisions](https://www.youtube.com/watch?v=UnU7DJXiMAQ)
   - [r/gamedev Comments](https://www.reddit.com/r/gamedev/comments/6dsa7c/indepth_video_on_mario_64s_terrain_collisions/)
+* [FINAL FANTASY XIV Documentary Part #1 - "One Point O" - Noclip](https://www.youtube.com/watch?v=Xs0yQKI7Yw4)
