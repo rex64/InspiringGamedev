@@ -12,3 +12,6 @@ to inspire and to be inspired
 * [In-depth video on Mario 64's collisions](https://www.youtube.com/watch?v=UnU7DJXiMAQ)
   - [r/gamedev Comments](https://www.reddit.com/r/gamedev/comments/6dsa7c/indepth_video_on_mario_64s_terrain_collisions/)
 * [FINAL FANTASY XIV Documentary Part #1 - "One Point O" - Noclip](https://www.youtube.com/watch?v=Xs0yQKI7Yw4)
+* [Curved Water Sea shader](https://www.bruteforce-games.com/post/curved-water-sea-shader-devblog-11)
+  - [r/programming Comments](https://www.reddit.com/r/programming/comments/ctwmdo/curved_water_sea_shader/?st=jznvtwln&sh=9effbff0)
+  
